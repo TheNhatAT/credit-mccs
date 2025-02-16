@@ -81,3 +81,5 @@ for (let i = 0; i < mccVibs.length; i++) {
 //TODO: full text search in the mccVibs array in field name
 // approach 1: save in postgres and use index
 // approach 2: use in-memory search algorithm
+
+//TODO: add UI for searching
